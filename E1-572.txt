@@ -1,7 +1,8 @@
 
-💻 Acer Aspire E1-572 com MacOS Mojave 10.14
+💻 Acer Aspire E1-572
+💿 MacOS Mojave 10.14 Final
 
-O que funciona? (Especs)
+Funcionando? (Especs)
 ✅ CPU: Intel Core i3 (4th Gen) 4010U @ 1.7 GHz
 ✅ Memória: 6GB DDR3L 10600S @ 1333mhz
 ✅ Gráficos: Intel HD Graphics 4400
@@ -14,5 +15,5 @@ O que funciona? (Especs)
 ✅ Teclado
 ✅ Webcam 
 
-O que não funciona?
+Não funciona?
 ❌ Bluetooth
