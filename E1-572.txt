@@ -18,8 +18,9 @@ Funcionando? (Especs)
 Não funciona?
 ❌ Bluetooth
 
-ℹ️ Este Notebook veio com 2GB de RAM e foi acrescentado apenas um pente de memória de 4GB.
-Toda a instalação e configuração do Mojave foi realizada com os 2GB, sem quaisquer problemas.
+ℹ️ Existe outra versão do E1-572 vendida no Brasil, mas que também possui o mesmo hardware.
+
+
 
 
 
