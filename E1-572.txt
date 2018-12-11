@@ -19,6 +19,7 @@ Não funciona?
 ❌ Bluetooth
 
 ℹ️ Existe outra versão do E1-572 vendida no Brasil, mas que também possui o mesmo hardware.
+O que difere essas versões é processador e a quantidade memória.
 
 
 
