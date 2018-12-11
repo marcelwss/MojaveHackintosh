@@ -12,7 +12,7 @@ Funcionando? (Especs)
 🌐 Rede: Broadcom BCM57786 NetXtreme PCI-E Gigabit Ethernet Controller (10/100MBit)
 📶 WiFi: Atheros Communications AR9565 Wireless Network Adapter (B/G/N)
 ⌨️ Teclado/Touchpad
-✅ Webcam
+📷 Webcam
 📀 Drive CD/DVD
 
 Não funciona?
