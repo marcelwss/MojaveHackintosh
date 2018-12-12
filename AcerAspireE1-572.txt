@@ -18,8 +18,16 @@ Funcionando? (Especs)
 Não funciona?
 ❌ Bluetooth
 
-ℹ️ Existe outra versão do E1-572 vendida no Brasil, mas que também possui o mesmo hardware.
-O que difere essas versões é processador e a quantidade memória.
+ℹ️ Existe outra versão do Aspire E1-572 vendida no Brasil, mas que também possui o mesmo hardware...
+o que difere essas versões é o processador e a memória.
+
+Requisitos para este Hackintosh:
+
+MacOS ou PC/Notebook com Hackintosh
+Pendrive de 8GB+
+Ferramenta "MacOS Mojave Pacther"
+Ferramenta "Clover Bootloader"
+
 
 
 
