@@ -25,8 +25,8 @@ Requisitos para este Hackintosh:
 
 MacOS ou PC/Notebook com Hackintosh
 Pendrive de 8GB+
-Ferramenta "MacOS Mojave Pacther"
-Ferramenta "Clover Bootloader"
+Ferramenta "MacOS Mojave Pacther" 🔗 http://dosdude1.com/mojave/
+Ferramenta "Clover EFI Bootloader" 🔗 https://sourceforge.net/projects/cloverefiboot/
 
 
 
